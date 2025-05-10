@@ -1,0 +1,52 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-10-03"
+-------------------------------------------------------
+"""
+# Imports
+import math
+# Constants
+
+
+def circumference(radius):
+    """
+    -------------------------------------------------------
+    Calculates and returns circumference of a circle.
+    Use: circ = circumference(radius)
+    -------------------------------------------------------
+    Parameters:
+        radius - radius of a circle (float >= 0)
+    Returns:
+        circ - circumference of a circle (float)
+    ------------------------------------------------------
+    """
+    circ = 2 * math.pi * radius
+    return circ
+
+
+def right_triangle(adjacent, opposite):
+    """
+    -------------------------------------------------------
+    Calculates and returns the hypotenuse, perimeter, and
+    area of a right triangle given two non-hypotenuse sides.
+    Use: hyp, per, area = right_triangle(adjacent, opposite)
+    -------------------------------------------------------
+    Parameters:
+        adjacent - length of side right triangle (float > 0)
+        opposite - length of side right triangle (float > 0)
+    Returns:
+        hyp - hypotenuse of the triangle (float)
+        per - perimeter of the triangle (float)
+        area - area of the triangle (float)
+    ------------------------------------------------------
+    """
+    hyp = math.sqrt((adjacent**2) + opposite**2)
+    per = hyp + opposite + adjacent
+    area = opposite * adjacent / 2
+
+    return (hyp, per, area)

@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l1\com.python.pydev.analysis\v2_indexcache
+t04|1706753667225873900|C:\Users\jayde\eclipse\ws\gran8740_l1\src\t04.py
+t06|1694627731872602500|C:\Users\jayde\eclipse\ws\gran8740_l1\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Users\jayde\eclipse\ws\gran8740_l1\src\t04.py
+4=t04
+2=t06
+1=C:\Users\jayde\eclipse\ws\gran8740_l1\src\t06.py
+-- END DICTIONARY
+-- START TREE 1
+5
+bon|1|bonus!1^32#1*19@
+fun|1|func!1^16#5*18@
+nam|1|name!3^15#1*35@
+pay|1|pay!1^33#1*19@
+sal|1|salary!1^31#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

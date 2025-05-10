@@ -1,0 +1,17 @@
+"""
+-------------------------------------------------------
+[colour combiner]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-10-28"
+-------------------------------------------------------
+"""
+# Imports
+from functions import colour_combine
+# Constants
+
+rgb_colour = colour_combine('blue', 'blue')
+
+print(rgb_colour)

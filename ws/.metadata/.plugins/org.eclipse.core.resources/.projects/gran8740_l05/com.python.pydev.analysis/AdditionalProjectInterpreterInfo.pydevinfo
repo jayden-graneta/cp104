@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l05\com.python.pydev.analysis\v2_indexcache
+functions|1697858004236100900|C:\Users\jayde\eclipse\ws\gran8740_l05\src\functions.py
+t11|1697857982656675000|C:\Users\jayde\eclipse\ws\gran8740_l05\src\t11.py
+t14|1697857983393436100|C:\Users\jayde\eclipse\ws\gran8740_l05\src\t14.py
+t02|1697858758611286600|C:\Users\jayde\eclipse\ws\gran8740_l05\src\t02.py
+t05|1697857983226460600|C:\Users\jayde\eclipse\ws\gran8740_l05\src\t05.py
+t09|1697857982862543300|C:\Users\jayde\eclipse\ws\gran8740_l05\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\jayde\eclipse\ws\gran8740_l05\src\functions.py
+2=functions
+4=t14
+3=C:\Users\jayde\eclipse\ws\gran8740_l05\src\t14.py
+-- END DICTIONARY
+-- START TREE 1
+6
+get|1|get_weight!1^16#5*18@
+is_|1|is_leap!1^44#5*18@
+pri|1|price!3^16#1*35@
+qua|1|quadrant!1^108#5*18@
+tic|1|ticket!1^140#5*18@
+win|1|wind_speed!1^78#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

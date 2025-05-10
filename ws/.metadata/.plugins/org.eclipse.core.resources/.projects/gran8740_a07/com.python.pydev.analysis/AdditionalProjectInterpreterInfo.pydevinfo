@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a07\com.python.pydev.analysis\v2_indexcache
+functions|1700355669903299700|C:\Users\jayde\eclipse\ws\gran8740_a07\src\functions.py
+t01|1700355721378547200|C:\Users\jayde\eclipse\ws\gran8740_a07\src\t01.py
+t03|1700355669638759100|C:\Users\jayde\eclipse\ws\gran8740_a07\src\t03.py
+t02|1700355670022015100|C:\Users\jayde\eclipse\ws\gran8740_a07\src\t02.py
+t05|1700355669773408200|C:\Users\jayde\eclipse\ws\gran8740_a07\src\t05.py
+t04|1700355669380455400|C:\Users\jayde\eclipse\ws\gran8740_a07\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+5=C:\Users\jayde\eclipse\ws\gran8740_a07\src\t05.py
+9=C:\Users\jayde\eclipse\ws\gran8740_a07\src\t04.py
+2=t01
+4=functions
+7=C:\Users\jayde\eclipse\ws\gran8740_a07\src\t03.py
+8=t03
+6=t05
+10=t04
+3=C:\Users\jayde\eclipse\ws\gran8740_a07\src\functions.py
+1=C:\Users\jayde\eclipse\ws\gran8740_a07\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+6
+fac|1|factors!1^15#1*19@
+get|1|get_indexes!3^61#5*34@
+lis|5|list_positives!3^37#5*34@list_subtract!3^84#5*34@list!5^16#1*51@list_factors!3^16#5*34@list!7^14#1*67@
+min|1|minuend!9^15#1*83@
+sub|1|subtrahend!9^16#1*83@
+ver|1|verify_sorted!3^107#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,57 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\coding practice\com.python.pydev.analysis\v2_indexcache
+test2|1702451935385541000|C:\Users\jayde\eclipse\ws\coding practice\src\test2.py
+test3|1702524776549462300|C:\Users\jayde\eclipse\ws\coding practice\src\test3.py
+functions|1702538138001598500|C:\Users\jayde\eclipse\ws\coding practice\src\functions.py
+functions2|1702579566837917400|C:\Users\jayde\eclipse\ws\coding practice\src\functions2.py
+testing|1702421308572908600|C:\Users\jayde\eclipse\ws\coding practice\src\testing.py
+filetesting|1702538068528029100|C:\Users\jayde\eclipse\ws\coding practice\src\filetesting.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=C:\Users\jayde\eclipse\ws\coding practice\src\functions.py
+4=functions
+2=functions2
+5=C:\Users\jayde\eclipse\ws\coding practice\src\filetesting.py
+1=C:\Users\jayde\eclipse\ws\coding practice\src\functions2.py
+6=filetesting
+-- END DICTIONARY
+-- START TREE 1
+32
+a|1|a!1^44#1*19@
+b|1|b!1^45#1*19@
+c|1|c!1^46#1*19@
+cus|1|customer_by_id!3^427#5*34@
+dot|1|dot_product!3^279#5*34@
+dra|3|draw_rectangle!3^28#5*34@draw_triangle!3^34#5*34@draw_arrow!3^40#5*34@
+fh|1|fh!5^16#1*51@
+gen|1|generate_integer_list!3^189#5*34@
+get|2|get_lotto_numbers!3^197#5*34@get_weekday_name!3^182#5*34@
+hi_|1|hi_lo_game!3^67#5*34@
+i|1|i!1^55#5*19@
+is_|2|is_palindrome!3^357#5*34@is_hydroxide!3^300#5*34@
+lin|1|linear_search!3^267#5*34@
+lis|3|list_categorize!3^230#5*34@list_stats!3^206#5*34@list_strip!1^25#1*19@
+mea|1|meal_costs!3^150#5*34@
+my_|1|my_string!1^24#1*19@
+mys|1|mystr!1^19#1*19@
+par|1|parse_code!3^306#5*34@
+pas|1|password_strength!3^326#5*34@
+pop|1|population_growth!3^85#5*34@
+pos|1|positive_statistics!3^128#5*34@
+res|1|result!1^47#1*19@
+s_s|1|s_string!1^16#1*19@
+spe|1|special!1^15#1*19@
+sta|1|statistics!3^48#5*34@
+sto|1|stop!1^51#1*19@
+sum|3|sum_all!3^21#5*34@sum_squares!3^107#5*34@sum_even!3^14#5*34@
+sym|1|symmetric_difference!3^287#5*34@
+tot|4|total_digits!3^407#5*34@total2!1^29#1*19@total!1^50#1*19@total1!1^28#1*19@
+val|1|validate_code!3^315#5*34@
+vow|1|vowel_count!3^377#5*34@
+you|1|yourstr!1^20#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

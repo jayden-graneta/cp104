@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a06\com.python.pydev.analysis\v2_indexcache
+functions|1699747307534723400|C:\Users\jayde\eclipse\ws\gran8740_a06\src\functions.py
+t01|1699747443623622900|C:\Users\jayde\eclipse\ws\gran8740_a06\src\t01.py
+t03|1699747671926003700|C:\Users\jayde\eclipse\ws\gran8740_a06\src\t03.py
+t02|1699747672057551500|C:\Users\jayde\eclipse\ws\gran8740_a06\src\t02.py
+t05|1699747672192064600|C:\Users\jayde\eclipse\ws\gran8740_a06\src\t05.py
+t04|1699747671787170700|C:\Users\jayde\eclipse\ws\gran8740_a06\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\jayde\eclipse\ws\gran8740_a06\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+5
+cou|1|count_of_digits!1^115#5*18@
+det|1|detect_prime!1^47#5*18@
+fac|1|factor_summation!1^139#5*18@
+int|1|interest_table!1^80#5*18@
+tot|1|total_wins!1^16#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

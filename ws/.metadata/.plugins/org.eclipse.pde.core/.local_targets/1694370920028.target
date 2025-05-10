@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?>
+<target name="Modular API Baseline Target">
+	<locations>
+    	<location xmlns:targlets="http://www.eclipse.org/oomph/targlets/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Modular API Baseline Target" type="Targlet">
+        	<targlet activeRepositoryList="2025-03" includeSources="false" name="Eclipse Platform" xsi:type="targlets:Targlet">
+            	<repositoryList name="None"/>
+            	<repositoryList name="2025-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.35/R-4.35-202502280140"/>
+            	</repositoryList>
+            	<repositoryList name="2024-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.34/R-4.34-202411201800"/>
+            	</repositoryList>
+            	<repositoryList name="2024-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.33/R-4.33-202409030240"/>
+            	</repositoryList>
+            	<repositoryList name="2024-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.32/R-4.32-202406010610"/>
+            	</repositoryList>
+            	<repositoryList name="2024-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.31/R-4.31-202402290520"/>
+            	</repositoryList>
+            	<repositoryList name="2023-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.30/R-4.30-202312010110"/>
+            	</repositoryList>
+            	<repositoryList name="2023-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.29/R-4.29-202309031000"/>
+            	</repositoryList>
+            	<repositoryList name="2023-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.28/R-4.28-202306050440"/>
+            	</repositoryList>
+            	<repositoryList name="2023-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.27/R-4.27-202303020300"/>
+            	</repositoryList>
+            	<repositoryList name="2022-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.26/R-4.26-202211231800"/>
+            	</repositoryList>
+            	<repositoryList name="2022-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.25/R-4.25-202208311800"/>
+            	</repositoryList>
+            	<repositoryList name="2022-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.24/R-4.24-202206070700"/>
+            	</repositoryList>
+            	<repositoryList name="2022-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.23/R-4.23-202203080310"/>
+            	</repositoryList>
+            	<repositoryList name="2021-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.22/R-4.22-202111241800"/>
+            	</repositoryList>
+            	<repositoryList name="2021-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.21/R-4.21-202109060500"/>
+            	</repositoryList>
+            	<repositoryList name="2021-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.20/R-4.20-202106111600"/>
+            	</repositoryList>
+            	<repositoryList name="2021-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.19/R-4.19-202103031800"/>
+            	</repositoryList>
+            	<repositoryList name="2020-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.18/R-4.18-202012021800"/>
+            	</repositoryList>
+            	<repositoryList name="2020-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.17/R-4.17-202009021800"/>
+            	</repositoryList>
+            	<repositoryList name="2020-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.16/R-4.16-202006040540"/>
+            	</repositoryList>
+            	<repositoryList name="2020-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.15/R-4.15-202003050155"/>
+            	</repositoryList>
+            	<repositoryList name="2019-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.14/R-4.14-201912100610"/>
+            	</repositoryList>
+            	<repositoryList name="2019-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.13/R-4.13-201909161045"/>
+            	</repositoryList>
+            	<repositoryList name="2019-06">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.12/R-4.12-201906051800"/>
+            	</repositoryList>
+            	<repositoryList name="2019-03">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.11/R-4.11-201903070500"/>
+            	</repositoryList>
+            	<repositoryList name="2018-12">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.10/R-4.10-201812060815"/>
+            	</repositoryList>
+            	<repositoryList name="2018-09">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.9/R-4.9-201809060745"/>
+            	</repositoryList>
+            	<repositoryList name="Photon">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.8/R-4.8-201806110500"/>
+            	</repositoryList>
+            	<repositoryList name="Oxygen">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.7/R-4.7.3a-201803300640"/>
+            	</repositoryList>
+            	<repositoryList name="Neon">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.6/R-4.6.3-201703010400"/>
+            	</repositoryList>
+            	<repositoryList name="Mars">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.5/R-4.5.2-201602121500"/>
+            	</repositoryList>
+            	<repositoryList name="Luna">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.4/R-4.4.2-201502041700"/>
+            	</repositoryList>
+            	<repositoryList name="Kepler">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.3/R-4.3.2-201402211700"/>
+            	</repositoryList>
+            	<repositoryList name="Juno">
+                	<repository url="https://download.eclipse.org/eclipse/updates/4.2/R-4.2.2-201302041200"/>
+            	</repositoryList>
+            	<repositoryList name="Indigo">
+                	<repository url="https://download.eclipse.org/eclipse/updates/3.7/R-3.7.2-201202080800"/>
+            	</repositoryList>
+            	<repositoryList name="Helios">
+                	<repository url="https://download.eclipse.org/eclipse/updates/3.6/R-3.6.2-201102101200"/>
+            	</repositoryList>
+            	<repositoryList name="Galileo">
+                	<repository url="https://download.eclipse.org/eclipse/updates/3.5/R-3.5.2-201002111343"/>
+            	</repositoryList>
+        	</targlet>
+        	<targlet activeRepositoryList="2025-03" includeSources="false" name="JDT" xsi:type="targlets:Targlet">
+            	<requirement name="org.eclipse.platform.feature.group"/>
+            	<requirement name="org.eclipse.jdt.feature.group"/>
+            	<requirement name="org.eclipse.pde.feature.group"/>
+            	<requirement name="org.eclipse.equinox.executable.feature.group"/>
+        	</targlet>
+    	</location>
+	</locations>
+</target>

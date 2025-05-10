@@ -1,0 +1,59 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740
+Email:   gran8740@mylaurier.ca
+Version: 2023-11-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess:1
+Too low, try again
+Guess:2
+Too low, try again
+Guess:3
+Too low, try again
+Guess:4
+Congratulations - good guess!
+You made 4 guesses
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+power_of_two(3) - 4
+
+power_of_two(4) - 4
+
+power_of_two(248) - 256
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive number : 0
+Next positive number : -1
+(0.0, 0.0, 0.0, 0.0)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an expense (0 to quit): $150
+Enter another expense (0 to quit): $23
+Enter another expense (0 to quit): $12
+Enter another expense (0 to quit): $15
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65.00
+Enter another expense (0 to quit): $0
+(302.5, -102.5, 'Deficit')
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+Employee ID: 0
+(3541.78125, 1770.890625)
+-------------------------------------------------------

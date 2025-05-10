@@ -1,0 +1,118 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740
+Email:   gran8740@mylaurier.ca
+Version: 2023-09-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales:100000
+Projected Tax Report
+--------------------------
+Total sales:     $ 100000.0
+Annual tax:      % 18.5
+--------------------------
+Tax:             $ 18500.0
+
+Enter the total sales:32000
+Projected Tax Report
+--------------------------
+Total sales:     $ 32000.0
+Annual tax:      % 18.5
+--------------------------
+Tax:             $ 5920.0
+
+Enter the total sales:25
+Projected Tax Report
+--------------------------
+Total sales:     $ 25.0
+Annual tax:      % 18.5
+--------------------------
+Tax:             $ 4.625
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number:25
+The difference of the digits of 25 is -3
+
+Enter a positive digit number:69
+The difference of the digits of 69 is -3
+
+Enter a positive digit number:12
+The difference of the digits of 12 is -1
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD:19621015
+The reformatted date: 1962/10/15
+
+Enter a date in the format YYYYMMDD:19671031
+The reformatted date: 1967/10/31
+
+Enter a date in the format YYYYMMDD:19421023
+The reformatted date: 1942/10/23
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers:1400
+Number of delivery people:12
+Flyers per delivery person: 116
+Flyers left over: 8
+
+Number of flyers:1
+Number of delivery people:1
+Flyers per delivery person: 1
+Flyers left over: 0
+
+Number of flyers:46473
+Number of delivery people:45
+Flyers per delivery person: 1032
+Flyers left over: 33
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m):10
+Foundation width (m):10
+Foundation height (m):10
+Wall height (m):10
+Cost of concrete ($/m^2):10
+Cost of bricks ($/m^2):10
+
+Concrete needed for foundation (m^3): 1,000.00
+Cost of concrete: $10,000.00
+Bricks needed for walls (m^2): 400.00
+Cost of bricks: $4,000.00
+Total cost: $14,000.00
+
+Foundation length (m):46
+Foundation width (m):27
+Foundation height (m):9
+Wall height (m):2
+Cost of concrete ($/m^2):1
+Cost of bricks ($/m^2):1
+
+Concrete needed for foundation (m^3): 11,178.00
+Cost of concrete: $11,178.00
+Bricks needed for walls (m^2): 292.00
+Cost of bricks: $292.00
+Total cost: $11,470.00
+
+Foundation length (m):7
+Foundation width (m):8
+Foundation height (m):9
+Wall height (m):10
+Cost of concrete ($/m^2):11
+Cost of bricks ($/m^2):12
+
+Concrete needed for foundation (m^3): 504.00
+Cost of concrete: $5,544.00
+Bricks needed for walls (m^2): 300.00
+Cost of bricks: $3,600.00
+Total cost: $9,144.00
+-------------------------------------------------------
+

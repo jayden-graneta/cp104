@@ -1,0 +1,47 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-10-28"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def day_name(day_num):
+    """
+    -------------------------------------------------------
+    Returns the name of a day of the week given an integer day number.
+    Day 1 is "Sunday", day 7 is "Saturday".
+    Returns "Error" if the number is not valid.
+    Use: day = day_name(day_num)
+    -------------------------------------------------------
+    Parameters:
+        day_num - day number (1 <= int <= 7)
+    Returns:
+        day - name of a day of the week (str)
+    ------------------------------------------------------
+    """
+
+    if day_num == 1:
+        day = 'Sunday'
+    elif day_num == 2:
+        day = 'Monday'
+    elif day_num == 3:
+        day = 'Tuesday'
+    elif day_num == 4:
+        day = 'Wednesday'
+    elif day_num == 5:
+        day = 'Thursday'
+    elif day_num == 6:
+        day = 'Friday'
+    elif day_num == 7:
+        day = 'Saturday'
+    else:
+        day = 'Error'
+    return day

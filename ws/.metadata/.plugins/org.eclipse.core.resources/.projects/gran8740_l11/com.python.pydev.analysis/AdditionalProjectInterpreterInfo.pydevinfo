@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l11\com.python.pydev.analysis\v2_indexcache
+functions|1701464319162965400|C:\Users\jayde\eclipse\ws\gran8740_l11\src\functions.py
+t01|1701478578249166500|C:\Users\jayde\eclipse\ws\gran8740_l11\src\t01.py
+t03|1701478577900018700|C:\Users\jayde\eclipse\ws\gran8740_l11\src\t03.py
+t13|1701478578411023400|C:\Users\jayde\eclipse\ws\gran8740_l11\src\t13.py
+t06|1701478578059363500|C:\Users\jayde\eclipse\ws\gran8740_l11\src\t06.py
+t08|1701478578578104500|C:\Users\jayde\eclipse\ws\gran8740_l11\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Users\jayde\eclipse\ws\gran8740_l11\src\functions.py
+2=functions
+4=t03
+5=C:\Users\jayde\eclipse\ws\gran8740_l11\src\t13.py
+3=C:\Users\jayde\eclipse\ws\gran8740_l11\src\t03.py
+6=t13
+-- END DICTIONARY
+-- START TREE 1
+4
+fin|1|find_less!1^118#5*18@
+gen|1|generate_matrix_num!1^16#5*18@
+mat|4|matrix_scalar_multiply!1^144#5*18@matrix_stats!1^85#5*18@matrix!3^16#1*35@matrix!5^15#1*51@
+pri|1|print_matrix_num!1^50#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

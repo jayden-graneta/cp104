@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a05\com.python.pydev.analysis\v2_indexcache
+functions|1699148526582333100|C:\Users\jayde\eclipse\ws\gran8740_a05\src\functions.py
+t01|1699148575758050900|C:\Users\jayde\eclipse\ws\gran8740_a05\src\t01.py
+t03|1699148525841661000|C:\Users\jayde\eclipse\ws\gran8740_a05\src\t03.py
+t02|1699148526224287000|C:\Users\jayde\eclipse\ws\gran8740_a05\src\t02.py
+t05|1699148526389341500|C:\Users\jayde\eclipse\ws\gran8740_a05\src\t05.py
+t04|1699148526038746500|C:\Users\jayde\eclipse\ws\gran8740_a05\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=C:\Users\jayde\eclipse\ws\gran8740_a05\src\functions.py
+2=functions
+5=C:\Users\jayde\eclipse\ws\gran8740_a05\src\t02.py
+4=t03
+6=t02
+7=C:\Users\jayde\eclipse\ws\gran8740_a05\src\t04.py
+3=C:\Users\jayde\eclipse\ws\gran8740_a05\src\t03.py
+8=t04
+-- END DICTIONARY
+-- START TREE 1
+5
+arr|2|arrow_up!1^52#5*18@arrow!3^15#1*35@
+cal|3|calc_factorial!1^16#5*18@calories_treadmill!1^37#5*18@calories!5^15#1*51@
+mul|1|multiplication_table!1^72#5*18@
+ran|1|range_addition!1^102#5*18@
+tab|1|table!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,19 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-09-29"
+-------------------------------------------------------
+"""
+
+prin = float(input('Principal:'))
+inter = float(input('Interest (%):'))
+num_years = float(input('Number of years:'))
+compound = float(input('Number of times interest compunded per year:'))
+
+money = prin * (1 + (inter / compound))**(num_years * compound)
+
+print("Balance: $", money)

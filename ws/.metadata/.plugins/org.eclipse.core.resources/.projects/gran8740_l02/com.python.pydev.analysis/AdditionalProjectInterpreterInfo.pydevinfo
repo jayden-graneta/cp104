@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l02\com.python.pydev.analysis\v2_indexcache
+t10|1695324275397798800|C:\Users\jayde\eclipse\ws\gran8740_l02\src\t10.py
+t01|1695324154816057200|C:\Users\jayde\eclipse\ws\gran8740_l02\src\t01.py
+t05|1695324275002598900|C:\Users\jayde\eclipse\ws\gran8740_l02\src\t05.py
+t07|1695324275588921300|C:\Users\jayde\eclipse\ws\gran8740_l02\src\t07.py
+t06|1695324275203885500|C:\Users\jayde\eclipse\ws\gran8740_l02\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=C:\Users\jayde\eclipse\ws\gran8740_l02\src\t01.py
+10=t10
+2=t01
+6=t05
+3=C:\Users\jayde\eclipse\ws\gran8740_l02\src\t07.py
+4=t07
+7=C:\Users\jayde\eclipse\ws\gran8740_l02\src\t06.py
+9=C:\Users\jayde\eclipse\ws\gran8740_l02\src\t10.py
+5=C:\Users\jayde\eclipse\ws\gran8740_l02\src\t05.py
+8=t06
+-- END DICTIONARY
+-- START TREE 1
+17
+cel|1|cel!1^15#1*19@
+fai|1|FAIR!1^16#1*19@
+fly|1|flyer_per!3^16#1*35@
+hou|2|hour_work!5^15#1*51@hour_rate!5^14#1*51@
+int|1|inter!7^19#1*67@
+lef|1|leftover!3^17#1*35@
+mon|2|MONTHS_IN_YEAR!7^14#1*67@month_int!7^21#1*67@
+num|3|num_vol!3^14#1*35@num_month!7^18#1*67@num_flyers!3^13#1*35@
+pay|1|payments!7^24#1*67@
+pri|1|prin!7^16#1*67@
+sal|1|sales_tax!9^16#1*83@
+sub|1|subtotal!9^12#1*83@
+tax|1|tax!9^13#1*83@
+tem|1|temp!1^17#1*19@
+tip|1|tip!9^14#1*83@
+tot|3|total!9^18#1*83@total_tip!9^17#1*83@total_pay!5^16#1*51@
+yea|1|years!7^17#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

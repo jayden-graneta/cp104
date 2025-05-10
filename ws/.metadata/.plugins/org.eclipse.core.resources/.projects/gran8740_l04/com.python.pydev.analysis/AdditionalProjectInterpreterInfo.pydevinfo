@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l04\com.python.pydev.analysis\v2_indexcache
+functions|1696620698782874700|C:\Users\jayde\eclipse\ws\gran8740_l04\src\functions.py
+t12|1696620535923884100|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t12.py
+t02|1696621145104812500|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t02.py
+t05|1696620535528314300|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t05.py
+t04|1696716123105802900|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t04.py
+t15|1696621237178710700|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t15.py
+t08|1696620825904084100|C:\Users\jayde\eclipse\ws\gran8740_l04\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=functions
+3=C:\Users\jayde\eclipse\ws\gran8740_l04\src\t04.py
+4=t04
+1=C:\Users\jayde\eclipse\ws\gran8740_l04\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+7
+c_t|1|c_to_f!1^79#5*18@
+cir|1|circumference!1^16#5*18@
+com|1|computer_costs!1^55#5*18@
+fly|2|flyers_people!3^17#1*35@flyers_left!3^18#1*35@
+num|2|num_flyers!3^14#1*35@num_people!3^15#1*35@
+rig|1|right_triangle!1^32#5*18@
+tim|1|time_split!1^97#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

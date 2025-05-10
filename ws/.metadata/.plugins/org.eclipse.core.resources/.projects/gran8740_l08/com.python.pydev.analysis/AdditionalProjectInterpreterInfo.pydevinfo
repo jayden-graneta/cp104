@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l08\com.python.pydev.analysis\v2_indexcache
+functions|1699654252486016000|C:\Users\jayde\eclipse\ws\gran8740_l08\src\functions.py
+t13|1699655056318149100|C:\Users\jayde\eclipse\ws\gran8740_l08\src\t13.py
+t04|1699655056471072500|C:\Users\jayde\eclipse\ws\gran8740_l08\src\t04.py
+t15|1699655056629910600|C:\Users\jayde\eclipse\ws\gran8740_l08\src\t15.py
+t07|1699655056166243300|C:\Users\jayde\eclipse\ws\gran8740_l08\src\t07.py
+t09|1699655056790113200|C:\Users\jayde\eclipse\ws\gran8740_l08\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\jayde\eclipse\ws\gran8740_l08\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+gen|1|generate_integer_list!1^16#5*18@
+lis|1|list_categorize!1^39#5*18@
+man|1|many_search!1^79#5*18@
+sym|1|symmetric_difference!1^139#5*18@
+uni|1|union!1^106#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

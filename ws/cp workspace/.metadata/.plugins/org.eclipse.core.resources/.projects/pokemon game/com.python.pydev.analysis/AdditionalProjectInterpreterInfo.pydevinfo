@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\pokemon game\com.python.pydev.analysis\v2_indexcache
+moves|1704669918630653000|C:\Users\jayde\eclipse\ws\cp workspace\pokemon game\src\moves.py
+pokegame|1704669805943898100|C:\Users\jayde\eclipse\ws\cp workspace\pokemon game\src\pokegame.py
+pokedex|1704669228379753500|C:\Users\jayde\eclipse\ws\cp workspace\pokemon game\src\pokedex.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=pokegame
+3=C:\Users\jayde\eclipse\ws\cp workspace\pokemon game\src\pokedex.py
+4=pokedex
+1=C:\Users\jayde\eclipse\ws\cp workspace\pokemon game\src\pokegame.py
+-- END DICTIONARY
+-- START TREE 1
+3
+par|1|partner!1^23#1*19@
+ran|1|random_pokemon!3^8#1*35@
+sta|1|starter!3^6#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

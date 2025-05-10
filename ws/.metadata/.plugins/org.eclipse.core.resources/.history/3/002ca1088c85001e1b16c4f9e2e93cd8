@@ -1,0 +1,32 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-11-17"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def is_hydroxide(chemical):
+    """
+    -------------------------------------------------------
+    Determines if a chemical formula is a hydroxide.
+    Use: hydroxide = is_hydroxide(chemical)
+    -------------------------------------------------------
+    Parameters:
+        chemical - a chemical formula (str)
+    Returns:
+        hydroxide - True if chemical is a hydroxide (ends in 'OH'),
+            False otherwise (boolean)
+    -------------------------------------------------------
+    """
+
+    hydroxide = chemical.endswith('OH')
+
+    return hydroxide

@@ -1,0 +1,55 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740
+Email:   gran8740@mylaurier.ca
+Version: 2023-09-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age?2
+What is your favourite band?n sync
+I am 2 years old and n sync is my favourite band.
+
+What is your age?60
+What is your favourite band?The Beatles
+I am 60 years old and The Beatles is my favourite band.
+
+What is your age?18
+What is your favourite band?New Jeans
+I am 18 years old and New Jeans is my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

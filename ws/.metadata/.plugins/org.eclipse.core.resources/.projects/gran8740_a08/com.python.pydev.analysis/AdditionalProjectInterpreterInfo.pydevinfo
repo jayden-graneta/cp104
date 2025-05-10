@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a08\com.python.pydev.analysis\v2_indexcache
+functions|1700956745251123400|C:\Users\jayde\eclipse\ws\gran8740_a08\src\functions.py
+t01|1700964825416475800|C:\Users\jayde\eclipse\ws\gran8740_a08\src\t01.py
+t03|1700964825250178900|C:\Users\jayde\eclipse\ws\gran8740_a08\src\t03.py
+t02|1700964825580501800|C:\Users\jayde\eclipse\ws\gran8740_a08\src\t02.py
+t05|1700964825775110000|C:\Users\jayde\eclipse\ws\gran8740_a08\src\t05.py
+t04|1700964825971674900|C:\Users\jayde\eclipse\ws\gran8740_a08\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\jayde\eclipse\ws\gran8740_a08\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+add|1|add_spaces!1^16#5*18@
+com|1|common_end!1^67#5*18@
+has|1|has_word_chain!1^114#5*18@
+plu|1|pluralize!1^42#5*18@
+val|1|valid_isbn!1^88#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

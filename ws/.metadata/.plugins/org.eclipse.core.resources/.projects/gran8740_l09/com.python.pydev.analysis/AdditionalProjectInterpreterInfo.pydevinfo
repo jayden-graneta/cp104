@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l09\com.python.pydev.analysis\v2_indexcache
+t10|1700270819877472500|C:\Users\jayde\eclipse\ws\gran8740_l09\src\t10.py
+functions|1700270820215000700|C:\Users\jayde\eclipse\ws\gran8740_l09\src\functions.py
+t01|1700270820038769800|C:\Users\jayde\eclipse\ws\gran8740_l09\src\t01.py
+t03|1700270820366371500|C:\Users\jayde\eclipse\ws\gran8740_l09\src\t03.py
+t14|1700270819707834700|C:\Users\jayde\eclipse\ws\gran8740_l09\src\t14.py
+t07|1700270820530915800|C:\Users\jayde\eclipse\ws\gran8740_l09\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\jayde\eclipse\ws\gran8740_l09\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+is_|1|is_hydroxide!1^16#5*18@
+par|1|parse_code!1^35#5*18@
+str|1|str_distance!1^112#5*18@
+tex|1|text_analyze!1^77#5*18@
+vow|1|vowel_count!1^59#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

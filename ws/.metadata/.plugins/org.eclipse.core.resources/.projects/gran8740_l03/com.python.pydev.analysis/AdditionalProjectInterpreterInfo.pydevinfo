@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l03\com.python.pydev.analysis\v2_indexcache
+t12|1695776150840235700|C:\Users\jayde\eclipse\ws\gran8740_l03\src\t12.py
+t02|1695775703493164000|C:\Users\jayde\eclipse\ws\gran8740_l03\src\t02.py
+t05|1695776151008107900|C:\Users\jayde\eclipse\ws\gran8740_l03\src\t05.py
+t15|1695776150664677900|C:\Users\jayde\eclipse\ws\gran8740_l03\src\t15.py
+t08|1695776151184426700|C:\Users\jayde\eclipse\ws\gran8740_l03\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+7=C:\Users\jayde\eclipse\ws\gran8740_l03\src\t12.py
+8=t12
+4=t05
+2=t15
+3=C:\Users\jayde\eclipse\ws\gran8740_l03\src\t05.py
+1=C:\Users\jayde\eclipse\ws\gran8740_l03\src\t15.py
+5=C:\Users\jayde\eclipse\ws\gran8740_l03\src\t08.py
+6=t08
+-- END DICTIONARY
+-- START TREE 1
+13
+dec|1|decimal!1^13#1*19@
+dif|1|diff!3^15#1*35@
+dir|1|dirt!5^12#1*51@
+fir|1|first!7^12#1*67@
+gra|1|gravel!5^13#1*51@
+int|1|integer!1^12#1*19@
+max|1|max!3^14#1*35@
+min|1|min!3^13#1*35@
+phr|1|phrase!1^14#1*19@
+san|1|sand!5^14#1*51@
+sec|1|second!7^13#1*67@
+thi|1|third!7^14#1*67@
+tot|2|total!5^16#1*51@total!7^16#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

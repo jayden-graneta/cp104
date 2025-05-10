@@ -1,0 +1,84 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-10-28"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def day_name(day_num):
+    """
+    -------------------------------------------------------
+    Returns the name of a day of the week given an integer day number.
+    Day 1 is "Sunday", day 7 is "Saturday".
+    Returns "Error" if the number is not valid.
+    Use: day = day_name(day_num)
+    -------------------------------------------------------
+    Parameters:
+        day_num - day number (1 <= int <= 7)
+    Returns:
+        day - name of a day of the week (str)
+    ------------------------------------------------------
+    """
+
+    if day_num == 1:
+        day = 'Sunday'
+    elif day_num == 2:
+        day = 'Monday'
+    elif day_num == 3:
+        day = 'Tuesday'
+    elif day_num == 4:
+        day = 'Wednesday'
+    elif day_num == 5:
+        day = 'Thursday'
+    elif day_num == 6:
+        day = 'Friday'
+    elif day_num == 7:
+        day = 'Saturday'
+    else:
+        day = 'Error'
+    return day
+
+
+def pollution_ranking(air_quality_index):
+    """
+    -------------------------------------------------------
+    Returns the pollution level given an AQI (Air Quality Index):
+        "Good" - 0 to 50 AQI
+        "Moderate" - 51 - 100 AQI
+        "Unhealthy for Sensitive Groups" - 101 - 150 AQI
+        "Unhealthy" - 151 - 200 AQI
+        "Very Unhealthy" - 201 - 300 AQI
+        "Hazardous" - 300+ AQI
+    Returns "Error" if air_quality_index is negative.
+    Use: pollution = pollution_ranking(air_quality_index)
+    -------------------------------------------------------
+    Parameters:
+        air_quality_index - Air Quality Index (int)
+    Returns:
+        pollution - name of pollution level (str)
+    ------------------------------------------------------
+    """
+
+    if air_quality_index > 0 and air_quality_index <= 50:
+        pollution = 'Good'
+    elif air_quality_index >= 51 and air_quality_index <= 100:
+        pollution = 'Moderate'
+    elif air_quality_index >= 101 and air_quality_index <= 150:
+        pollution = 'Unhealthy for Sensitive Groups'
+    elif air_quality_index >= 151 and air_quality_index <= 200:
+        pollution = 'Unhealthy'
+    elif air_quality_index >= 201 and air_quality_index <= 300:
+        pollution = 'Very Unhealthy'
+    elif air_quality_index >= 301:
+        pollution = 'Hazardous'
+    else:
+        pollution = 'Error'
+    return pollution 

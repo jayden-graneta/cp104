@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_m\com.python.pydev.analysis\v2_indexcache
+t01|1698851246957798300|C:\Users\jayde\eclipse\ws\gran8740_m\src\t01.py
+t01_functions|1698849773476057000|C:\Users\jayde\eclipse\ws\gran8740_m\src\t01_functions.py
+t03|1698773460000000000|C:\Users\jayde\eclipse\ws\gran8740_m\src\t03.py
+t04_functions|1698773460000000000|C:\Users\jayde\eclipse\ws\gran8740_m\src\t04_functions.py
+t02|1698851246840165500|C:\Users\jayde\eclipse\ws\gran8740_m\src\t02.py
+t04|1698773460000000000|C:\Users\jayde\eclipse\ws\gran8740_m\src\t04.py
+t02_functions|1698850482089762100|C:\Users\jayde\eclipse\ws\gran8740_m\src\t02_functions.py
+t03_functions|1698850954395239000|C:\Users\jayde\eclipse\ws\gran8740_m\src\t03_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+7=C:\Users\jayde\eclipse\ws\gran8740_m\src\t04_functions.py
+9=C:\Users\jayde\eclipse\ws\gran8740_m\src\t01_functions.py
+10=t01_functions
+2=t02_functions
+14=t03_functions
+11=C:\Users\jayde\eclipse\ws\gran8740_m\src\t02.py
+4=t01
+5=C:\Users\jayde\eclipse\ws\gran8740_m\src\t03.py
+6=t03
+8=t04_functions
+3=C:\Users\jayde\eclipse\ws\gran8740_m\src\t01.py
+12=t02
+1=C:\Users\jayde\eclipse\ws\gran8740_m\src\t02_functions.py
+13=C:\Users\jayde\eclipse\ws\gran8740_m\src\t03_functions.py
+-- END DICTIONARY
+-- START TREE 1
+8
+cat|1|categorize!1^13#5*18@
+cen|1|cents!3^14#1*35@
+cos|1|cost!5^14#1*51@
+get|1|get_it!7^13#5*66@
+min|1|minimal_change!9^16#5*82@
+rat|1|rating!11^15#1*99@
+ser|1|servicing!13^16#5*114@
+str|1|strokes!11^14#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

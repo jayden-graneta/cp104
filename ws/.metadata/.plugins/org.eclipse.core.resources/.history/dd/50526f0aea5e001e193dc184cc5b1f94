@@ -1,0 +1,34 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740  
+Email:   gran8740@mylaurier.ca
+__updated__ = "2023-09-29"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def func():
+    """
+    -------------------------------------------------------
+    description
+    Use: 
+    -------------------------------------------------------
+    Parameters:
+        name - description (type)
+    Returns:
+        name - description (type)
+    ------------------------------------------------------
+    """
+
+
+print('What is a "program"?')
+print()
+
+print("Believe it or not, that's pretty much all there is to it.")
+print("""You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill""")

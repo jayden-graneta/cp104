@@ -1,0 +1,145 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID:      169058740
+Email:   gran8740@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+    Up above the world so high,
+    Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+    
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+    Up above the world so high,
+    Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+    
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+    Up above the world so high,
+    Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter minimum:0
+Enter maximum:0
+The difference between 0 and 0 is 0
+
+Enter minimum:38
+Enter maximum:452
+The difference between 452 and 38 is 414
+
+Enter minimum:3
+Enter maximum:5
+The difference between 5 and 3 is 2
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter amount of dirt (m^3):1
+Enter amount of gravel (m^3):2
+Enter amount of sand (m^3):3
+
+Material   Cubic Metres
+Dirt         1.0
+Gravel       2.0
+Sand         3.0
+Total        6.0
+
+Enter amount of dirt (m^3):55.5
+Enter amount of gravel (m^3):30.6
+Enter amount of sand (m^3):112.8
+
+Material   Cubic Metres
+Dirt        55.5
+Gravel      30.6
+Sand       112.8
+Total      198.9
+
+Enter amount of dirt (m^3):69
+Enter amount of gravel (m^3):420
+Enter amount of sand (m^3):21.0
+
+Material   Cubic Metres
+Dirt        69.0
+Gravel     420.0
+Sand        21.0
+Total      510.0
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Values
+First:  ___100
+Second: ____34
+Third:  ___933
+Total:  __1067
+
+Values
+First:  ___100
+Second: ____34
+Third:  ___933
+Total:  __1067
+
+Values
+First:  ___100
+Second: ____34
+Third:  ___933
+Total:  __1067
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.000000
+654.320000
+Hello World
+
+654321
+654321.000000
+654.320000
+Hello World
+
+654321
+654321.000000
+654.320000
+Hello World
+
+-------------------------------------------------------
+

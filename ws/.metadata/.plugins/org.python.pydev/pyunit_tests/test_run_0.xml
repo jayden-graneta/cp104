@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="C:\Users\jayde\eclipse\ws\gran8740_l03\src\t05.py" status="error" test="t05" time="0">
+        <stdout/>
+        <stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\jayde\eclipse\eclipse\plugins\org.python.pydev.core_10.2.1.202307021217\pysrc\_pydev_runfiles\pydev_runfiles.py", line 460, in __get_module_from_str
+    mod = __import__(modname)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jayde\eclipse\ws\gran8740_l03\src\t05.py", line 14
+    max = int)input("Enter maximum:")
+             ^
+SyntaxError: unmatched ')'
+ERROR: Module: t05 could not be imported (file: C:\Users\jayde\eclipse\ws\gran8740_l03\src\t05.py).
+]]></stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="gran8740_l03 t05.py"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>
